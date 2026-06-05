@@ -1,6 +1,7 @@
 # GitHub Profile Explorer
+https://git-profile-explorer-ten.vercel.app/
+<img width="1920" height="945" alt="screencapture-git-profile-explorer-ten-vercel-app-2026-06-05-08_54_07" src="https://github.com/user-attachments/assets/c71fac5d-dde8-4f3f-ba8d-a33c7a5b1c7c" />
 
-![GitHub Profile Screenshot](./src/assets/images/GitHubProfileExplorer.png)
 
 ## Description
 
